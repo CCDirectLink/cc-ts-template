@@ -1,0 +1,11 @@
+{
+  "id": "template",
+  "version": "0.0.1",
+  "name": "Template Mod",
+  "description": "A template mod.",
+  "plugin": "dist/plugin.js",
+  "preload": "dist/preload.js",
+  "postload": "dist/postload.js",
+  "prestart": "dist/prestart.js",
+  "poststart": "dist/poststart.js"
+}
