@@ -1,5 +1,9 @@
 {
   "name": "template",
+  "version": "0.0.1",
+  "ccmodHumanName": "Template Mod",
+  "description": "A template mod.",
+  "ccmodDependencies": {},
   "devDependencies": {
     "@types/node": "^20.4.5",
     "typescript": "^5.1.6",
