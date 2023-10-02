@@ -6,7 +6,7 @@
   "ccmodDependencies": {},
   "devDependencies": {
     "@types/node": "^20.4.5",
-    "typescript": "^5.1.6",
+    "typescript": "^5.2.2",
     "ultimate-crosscode-typedefs": "github:CCDirectLink/ultimate-crosscode-typedefs"
   },
   "scripts": {
